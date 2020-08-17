@@ -1,0 +1,6 @@
+name: SimpleSteeds
+version: ${project.version}
+main: net.runeage.simplesteeds.SimpleSteeds
+api-version: 1.13
+authors: [Tyrriel]
+description: A horse plugin
